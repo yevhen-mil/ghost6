@@ -1,20 +1,28 @@
 # FlyingBear Ghost 6
 
-This 3D printer is an affordable Core XY option. I documented my assembly steps with additional information to supplement the manual, this may help those looking to make upgrades.
+Цей 3D принтер є доступним варіантом 3D-принтера на принципі [Core XY](https://uk.wikipedia.org/wiki/CoreXY). Тут задокументовані кроки зборки із додатковою інформацією яка доповнює інструкцію. Може бути помічним для тих хто думає зробити апгрейд.
+
+Цей мануал є перекладом [gknapp/ghost6](https://github.com/gknapp/ghost6) із доповненнями.
 
 ![Front photo of FlyingBear Ghost 6 with a filament spool on the left](https://cdn.shopify.com/s/files/1/0589/7352/0045/products/01_f026b7af-a317-4852-a214-f21e87a4394c_1800x1800.jpg)
 
-**Sections**
+**Розділи**
 
-- [Motherboard](#motherboard)
-  - [Firmware](#stock-firmware)
-  - [PID tune](#pid-tune)
+- [Відео](#відео)
+- [Материнка](#motherboard)
+  - [Прошивка](#stock-firmware)
+  - [Налаштування ПІД](#pid-tune)
 - [Hot-end](#hot-end)
 - [Z Stop](#z-stop)
 - [PTFE Tube](#ptfe-tube)
-- [Upgrades](#upgrades)
+- [Апгрейди](#upgrades)
 
 [Nathan Builds Robots](https://www.youtube.com/@NathanBuildsRobots) posted a [review of this machine](https://www.youtube.com/watch?v=OnHAltxwU58), including some upgrades to the power connections and heat-break. I used this as a springboard of items to check when assembling my own Ghost 6.
+
+## Відео
+* [Перше знайомство з 3D принтером FlyingBear Ghost 6. Кастомний Marlin. Підготовка до апгрейду. Cura.](https://www.youtube.com/watch?v=v-UO3Zj0T1A&list=PL1W1I2PsyPEjfpbwFNwf4fYvK08m26Y-N)
+* [Klipper на FlyingBear Ghost 6. Знайомство, встановлення на міні ПК, конфігурація, компоненти.](https://www.youtube.com/attribution_link?a=yCGpVpDZXPUGNjlJ&u=/watch%3Fv%3DPSe-rCyD8rk%26feature%3Dem-comments)
+* [Що не так з 3D принтер Flyingbear Ghost 6 і як це виправити](https://www.youtube.com/watch?v=t9QI3crE5YY&list=PL1W1I2PsyPEjfpbwFNwf4fYvK08m26Y-N)
 
 ## Motherboard
 
