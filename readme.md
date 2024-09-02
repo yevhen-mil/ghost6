@@ -235,12 +235,3 @@ Not a print quality upgrade but a quality of life one. I opted for light smoke a
 As you can see from the photo, my panels are perhaps 1mm too narrow. If ordering your own, I recommend 342 x 315mm sized sheets. I drilled M3 (3.5mm drill) holes and attached using pre-existing mount points.
 
 Tip: to position your drill points, remove your metal side panels and lay your acrylic on it to mark the hole locations.
-
-## Next
-
-I have some other modifications planned. I'll update these notes in due course but am happy with the quality of the hardware, particularly at this price point.
-
-# Useful Ghost 6 repositories
-
-- [Tom Tomich's Ghost 6 repository](https://github.com/Tombraider2006/klipperFB6) (Russian)
-- [Technarrus klipper config (Orange Pi 3 LTS)](https://github.com/Technarrus/Klipper_FBG6) (Russian)
