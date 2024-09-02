@@ -21,6 +21,7 @@
 
 ## Відео
 * [Перше знайомство з 3D принтером FlyingBear Ghost 6. Кастомний Marlin. Підготовка до апгрейду. Cura.](https://www.youtube.com/watch?v=v-UO3Zj0T1A&list=PL1W1I2PsyPEjfpbwFNwf4fYvK08m26Y-N)
+ * [Кастомний Marlin](https://github.com/FB-G6/Marlin)
 * [Klipper на FlyingBear Ghost 6. Знайомство, встановлення на міні ПК, конфігурація, компоненти.](https://www.youtube.com/attribution_link?a=yCGpVpDZXPUGNjlJ&u=/watch%3Fv%3DPSe-rCyD8rk%26feature%3Dem-comments)
 * [Що не так з 3D принтер Flyingbear Ghost 6 і як це виправити](https://www.youtube.com/watch?v=t9QI3crE5YY&list=PL1W1I2PsyPEjfpbwFNwf4fYvK08m26Y-N)
 
