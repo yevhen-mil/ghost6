@@ -25,6 +25,9 @@
 * [Klipper на FlyingBear Ghost 6. Знайомство, встановлення на міні ПК, конфігурація, компоненти.](https://www.youtube.com/attribution_link?a=yCGpVpDZXPUGNjlJ&u=/watch%3Fv%3DPSe-rCyD8rk%26feature%3Dem-comments)
 * [Що не так з 3D принтер Flyingbear Ghost 6 і як це виправити](https://www.youtube.com/watch?v=t9QI3crE5YY&list=PL1W1I2PsyPEjfpbwFNwf4fYvK08m26Y-N)
 
+### На пов'язані теми
+* [Плейліст по FreeCAD українською](https://www.youtube.com/watch?v=Bzv6fR4NSNA&list=PLkGYG6d5o3fYrkIrPu8RjB4gfn2Ityxi0)
+
 ## Motherboard
 
 As of March 2023 FlyingBear appear to ship the Ghost 6 with fork connectors on the power cables, a welcome change from tinned wires as seen in NBR's review.
