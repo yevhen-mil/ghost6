@@ -28,6 +28,9 @@
 ### На пов'язані теми
 * [Плейліст по FreeCAD українською](https://www.youtube.com/watch?v=Bzv6fR4NSNA&list=PLkGYG6d5o3fYrkIrPu8RjB4gfn2Ityxi0)
 
+## Виправлення проблем
+* [Якщо витік філамент та забив все навколо ноззла — як почистити](https://www.youtube.com/watch?v=TCFOI5kUWQg)
+
 ## Motherboard
 
 As of March 2023 FlyingBear appear to ship the Ghost 6 with fork connectors on the power cables, a welcome change from tinned wires as seen in NBR's review.
